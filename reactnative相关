@@ -1,0 +1,11 @@
+//跳转传参                        
+this.props.navigation.navigate('Xxxxxx',{ssid: ssid, pass: pass})
+Xxxxxx：在StackNavigator中注册的页面，需要一一对应，才能跳转到相应的页面
+ssid/pass：在跳转的页面可以通过this.props.navigation.getParam("ssid")获取到这个参数。
+当然这个参数可以随便填写，都可以通过this.props.navigation.getParam("xxx")获取。
+※react-navigation使用技巧
+https://www.jianshu.com/p/dc9df5826651
+
+//返回上一个界面
+this.props.navigation.goBack(null)
+※https://stackoverflow.com/questions/43982177/react-native-navigation-goback-doesnt-work
