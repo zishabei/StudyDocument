@@ -9,4 +9,7 @@ Git官网
 * https://git-scm.com/book/zh/v2  
 
 Android SDK: sdkmanager 命令行工具的使用（查看、安装、更新、卸载软件包）  
-* https://blog.csdn.net/xietansheng/article/details/85092056
+* https://blog.csdn.net/xietansheng/article/details/85092056  
+
+Xamarin 基础、入门、API等官方文档链接  
+* https://www.jianshu.com/p/8a3bb108c14e  
