@@ -15,4 +15,7 @@ Xamarin 基础、入门、API等官方文档链接
 * https://www.jianshu.com/p/8a3bb108c14e
 
 Deepl翻译  
-* https://www.deepl.com/translator
+* https://www.deepl.com/translator  
+
+C# 文档  
+* https://docs.microsoft.com/zh-cn/dotnet/csharp/
